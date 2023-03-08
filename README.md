@@ -1,11 +1,9 @@
-# learn-shell
-this is a test line
-# variables 
-# conditions 
-# loops 
-# inputs
-# exit status
-# quotes
-# redirectors
-# printing 
-# comments
+1. Printing
+2. Comments
+3. Variables
+4. Functions
+5. Conditions
+6. Inputs
+7. Exit Status
+8. Quotes
+
